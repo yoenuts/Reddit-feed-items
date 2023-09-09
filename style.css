@@ -1,0 +1,20 @@
+
+body {
+  background-color: #000000;
+  
+}
+
+#content {
+  margin-top: 4em;
+}
+
+.main-ui-text-container {
+  margin-top: 1em;
+  margin-bottom: 2em;
+}
+
+i.icon {
+  margin: 0;
+}
+
+
